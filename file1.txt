@@ -1,1 +1,3 @@
-New feature in feature_branch
+
+New feature, originally in feature_branch now in master
+

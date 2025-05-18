@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-conflict1
-=======
-conflict1
->>>>>>> TeamB
-Affan
-Basra
-janjua
-Hanzala
+New feature in feature_branch
